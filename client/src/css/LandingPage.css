@@ -1,0 +1,30 @@
+.all{
+    background-image: url(https://bolavip.com/__export/1588119326512/sites/bolavip/img/2020/04/28/videogamesmundial_crop1588119325937.jpg_497593902.jpg);
+
+}
+
+.letras{
+    color:#126268;
+    font-size: xx-large;
+    font-style: initial;
+    font-weight: 900;
+}
+
+
+.homeButton{
+    height:10rem;
+    width:10rem;
+    border-radius: 100px;
+
+    color:white;
+    background-color: #181203;
+    font-size:3rem;
+    font-weight:900;
+    margin-top: 20rem;
+
+}
+.homeButton:hover{
+    color:#126268;
+    border-color:#023047;
+    background-color: #00949e;
+}
